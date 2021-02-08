@@ -13,3 +13,8 @@ voor de setup van de het project. Is er gebruik gemaakt van de volgende onderdel
 # De visualisatie van data
 Voor het visualiseren van de verzonden data is er gebruik gemaakt van thingspeak. Op thingspeak wordt de data in een grafiek weer gegeven, zodat deze overzichtelijk te zien is. dit zal ook een beter beeld geven in plaats van een lijst. De 4 gemten waarden: Tempratuur, Luchtdruk, Barometer Tempratuur en Barometer luchtdruk. Zijn in 4 apparte grafieken uitgezt om het overzichtlijk te maken voor de gebruiker.
 
+# Proces
+Voordat dat ik bij de eindversie van het prototype was gekomen, zijn er meerdere versies geweest. In de eerste 2 versies van het project werkte het versturen van de data vanaf de raspberry pi naar thingspeak niet, dit kwam uiteindelijk doordat de senor geen bestand aanmaakte waarin data werd opgeslagen, in plaats daarvan gaf de sensor de data weer en verwijderde het vervolgens als deze weer opnieuw begon. 
+
+# Bronnen en inspiratie voor de geschreven code
+- 

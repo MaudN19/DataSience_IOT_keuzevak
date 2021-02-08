@@ -17,4 +17,7 @@ Voor het visualiseren van de verzonden data is er gebruik gemaakt van thingspeak
 Voordat dat ik bij de eindversie van het prototype was gekomen, zijn er meerdere versies geweest. In de eerste 2 versies van het project werkte het versturen van de data vanaf de raspberry pi naar thingspeak niet, dit kwam uiteindelijk doordat de senor geen bestand aanmaakte waarin data werd opgeslagen, in plaats daarvan gaf de sensor de data weer en verwijderde het vervolgens als deze weer opnieuw begon. 
 
 # Bronnen en inspiratie voor de geschreven code
-- 
+Voor het schrijven van de code zijn de volgende 2 bronnen grbuikt.:
+       - https://github.com/notenoughtech/NodeRED-PRojects/blob/master/DockerPi%20Sensor%20Board/SensorBoard_script.py
+       - https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi
+De geschreven code is een combinatie van deze twee bronnen met aanpassingen om de code werkend te krijgen.

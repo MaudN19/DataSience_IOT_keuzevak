@@ -16,6 +16,9 @@ Voor het visualiseren van de verzonden data is er gebruik gemaakt van thingspeak
 # Proces
 Voordat dat ik bij de eindversie van het prototype was gekomen, zijn er meerdere versies geweest. In de eerste 2 versies van het project werkte het versturen van de data vanaf de raspberry pi naar thingspeak niet, dit kwam uiteindelijk doordat de senor geen bestand aanmaakte waarin data werd opgeslagen, in plaats daarvan gaf de sensor de data weer en verwijderde het vervolgens als deze weer opnieuw begon. 
 
+# Vervolg
+In het vervolg zou ik nog een melding willen toevoegen wanneer je het raam het best open kan zetten. Een andere functie die ik nog zou willen toevoegen is het voorspellen wanneer het raam het beste open kan zodat je van te voren weet wanneer je het raam open kan zetten.
+
 # Bronnen en inspiratie voor de geschreven code
 De geschreven code is een combinatie van de twee bronnen met aanpassingen om de code werkend te krijgen. De bronnen die gebruikt zijn voor het schrijven zijn de onderstaande 2 bronen.
 https://github.com/notenoughtech/NodeRED-PRojects/blob/master/DockerPi%20Sensor%20Board/SensorBoard_script.py

@@ -1,5 +1,5 @@
 # IOT_keuzevak_Luchtvochtigheid
-Dit project heeft voor mij vooral een doen om te een IOT project te leren opzetten. Deze kennis die op gedaan wordt in mijn project wil ik meenemen om in het vervolg mijn eigen IOT project te kunnnen opzetten en deze kunnen uitwerken.
+Het doel vandit project ligt bij mij vooral bij kennis opdoen in het project zodat ik dit later kan gebruiken. De kennis die ik heb opgedaan in mijn project wil ik meenemen om in het vervolg mijn eigen IOT project te kunnnen opzetten en deze kunnen uitwerken.
 
 # Probleem en Doelstelling
 Het probleem dat ik wil gaan oplossen is het aangeven van wanneer moet het raam open komen te staan om de luchtvochtigheid op mijn kamer te gaan verbeteren. Het probleem op de kamer vooral te maken dat de kamer op de zolder is en deze de warme droge lucht van het huis zich verzamelt. Hierdoor wordt het zeer vervelend om de kamer te verblijven. De doelstelling van mijn project is om de luchtvochtigheid op de kamer te kunnen monitoren en helpen verbeteren door te kijken wanneer het raam open te zetten helpt om de luchtvochtigheid te kunnen verbeteren in de kamer.

@@ -10,6 +10,6 @@ voor de setup van de het project. Is er gebruik gemaakt van de volgende onderdel
   2. Externe tempratuur sensor
   3. raspberry Pi (gebruikt is een Pi3 model B+)
 
-# De visualisatie van de verzonden data
+# De visualisatie van data
 Voor het visualiseren van de verzonden data is er gebruik gemaakt van thingspeak. Op thingspeak wordt de data in een grafiek weer gegeven, zodat deze overzichtelijk te zien is. dit zal ook een beter beeld geven in plaats van een lijst. De 4 gemten waarden: Tempratuur, Luchtdruk, Barometer Tempratuur en Barometer luchtdruk. Zijn in 4 apparte grafieken uitgezt om het overzichtlijk te maken voor de gebruiker.
 

@@ -18,6 +18,6 @@ Voordat dat ik bij de eindversie van het prototype was gekomen, zijn er meerdere
 
 # Bronnen en inspiratie voor de geschreven code
 Voor het schrijven van de code zijn de volgende 2 bronnen grbuikt.:
-       - https://github.com/notenoughtech/NodeRED-PRojects/blob/master/DockerPi%20Sensor%20Board/SensorBoard_script.py
-       - https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi
+https://github.com/notenoughtech/NodeRED-PRojects/blob/master/DockerPi%20Sensor%20Board/SensorBoard_script.py
+https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi
 De geschreven code is een combinatie van deze twee bronnen met aanpassingen om de code werkend te krijgen.

@@ -7,7 +7,7 @@ Het probleem dat ik wil gaan oplossen is het aangeven van wanneer moet het raam 
 # Benodigde onderdelen
 voor de setup van de het project. Is er gebruik gemaakt van de volgende onderdelen
   1. DockerPI SensorHub
-  2. Externe tempratuur sensor
+  2. DS18B20 Waterdichte temperatuur sensor
   3. raspberry Pi (gebruikt is een Pi3 model B+)
 
 # De visualisatie van data

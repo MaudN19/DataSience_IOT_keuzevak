@@ -3,7 +3,7 @@ import urllib
 import time
 import smbus
 
-key = "MGMP9U0Y209EB0FM"  # Put your API Key here
+key = "MGMP9U0Y209EB0FM"  # API Key here
 
 
 def thermometer():
